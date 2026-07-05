@@ -23,15 +23,19 @@ MERN Stack Developer Internship at KodeMelon Technologies.
 **Authentication**
 - Admin login with JWT
 - Protected API routes and protected frontend routes
+
 **Dashboard**
 - Total patients, total tests conducted, pending reports, completed reports
+
 **Patient Management**
 - Add, edit, delete, and view patients
 - Search patients by name or mobile number
 - Fields: name, age, gender, mobile number, address
+
 **Test Management**
 - Add, edit, delete, and view tests
 - Fields: test name, category, price, description
+
 **Report Management**
 - Assign one or more tests to a patient (auto-calculates total amount)
 - Enter/update result values, units, and normal ranges per test
